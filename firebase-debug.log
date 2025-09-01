@@ -1,0 +1,21 @@
+[debug] [2025-07-22T08:03:37.271Z] ----------------------------------------------------------------------
+[debug] [2025-07-22T08:03:37.276Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\abiga\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-07-22T08:03:37.277Z] CLI Version:   14.11.0
+[debug] [2025-07-22T08:03:37.277Z] Platform:      win32
+[debug] [2025-07-22T08:03:37.277Z] Node Version:  v22.16.0
+[debug] [2025-07-22T08:03:37.277Z] Time:          Tue Jul 22 2025 10:03:37 GMT+0200 (heure d’été d’Europe centrale)
+[debug] [2025-07-22T08:03:37.278Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-07-22T08:03:37.286Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-22T08:03:37.287Z] > authorizing via signed-in user (abigaelletchemasso@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\abiga\QUIZZGENIUSAPP
+
