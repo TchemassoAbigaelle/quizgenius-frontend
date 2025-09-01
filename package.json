@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "start": "concurrently \"npm run\" \"npm run\"",
     "server": "node backend/server.js",
     "build": "react-scripts build",
     "client": "npm start --prefix frontend"
